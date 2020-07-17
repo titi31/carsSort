@@ -1,0 +1,104 @@
+[
+
+{
+
+"category_name": "car",
+
+"name": "BMW",
+
+"color": "blue"
+
+},
+
+{
+
+"category_name": "car",
+
+"name": "BMW",
+
+"color": "red"
+
+},
+
+{
+
+"category_name": "car",
+
+"name": "BMW 2",
+
+"color": "blue"
+
+},
+
+{
+
+"category_name": "truck",
+
+"name": "MERCEDES",
+
+"color": "blue"
+
+},
+
+{
+
+"category_name": "truck",
+
+"name": "MERCEDES",
+
+"color": "red"
+
+},
+
+{
+
+"category_name": "truck",
+
+"name": "MERCEDES",
+
+"color": "green"
+
+},
+
+{
+
+"category_name": "truck",
+
+"name": "HYUNDAI",
+
+"color": "Blue"
+
+},
+
+{
+
+"category_name": "boat",
+
+"name": "yachts",
+
+"color": "Blue"
+
+},
+
+{
+
+"category_name": "boat",
+
+"name": "yachts",
+
+"color": "Blue"
+
+},
+
+{
+
+"category_name": "boat",
+
+"name": "yachts",
+
+"color": "yellow"
+
+}
+
+]
+
